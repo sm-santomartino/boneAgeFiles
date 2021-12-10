@@ -1,1 +1,1 @@
-Folder contians files from teh Digital Hands Atlas, rotated 90 degrees. 
+Folder contians files from the Digital Hands Atlas, rotated 90 degrees. 
